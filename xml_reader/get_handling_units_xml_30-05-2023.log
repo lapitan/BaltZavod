@@ -1,0 +1,80 @@
+мая 30, 2023 3:48:34 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger startReadXml
+INFO: started reading xml with name: example.xml scanner serialNumber: 19200B69F5
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871261", quan="2.5"}
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место3", mdat="1683871721", quan="3.0"}
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад2", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица2", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="4.0"}
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="4.0"}
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="15.0"}
+мая 30, 2023 3:48:35 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger finishReadXml
+INFO: finished reading xml with name: example.xml scanner serialNumber: 19200B69F5
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger startReadXml
+INFO: started reading xml with name: example.xml scanner serialNumber: 19200B69F5
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871261", quan="2.5"}
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место3", mdat="1683871721", quan="3.0"}
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад2", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица2", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="4.0"}
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="4.0"}
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="15.0"}
+мая 30, 2023 3:49:04 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger finishReadXml
+INFO: finished reading xml with name: example.xml scanner serialNumber: 19200B69F5
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger startReadXml
+INFO: started reading xml with name: example.xml scanner serialNumber: 19200B69F5
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871261", quan="2.5"}
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место3", mdat="1683871721", quan="3.0"}
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад2", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица2", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="4.0"}
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="4.0"}
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="15.0"}
+мая 30, 2023 4:01:53 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger finishReadXml
+INFO: finished reading xml with name: example.xml scanner serialNumber: 19200B69F5
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger startReadXml
+INFO: started reading xml with name: example.xml scanner serialNumber: 19200B69F5
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871261", quan="2.5"}
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место1", loct="Место3", mdat="1683871721", quan="3.0"}
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад2", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица2", cwar="Склад1", locf="Место1", loct="Место2", mdat="1683871721", quan="3.0"}
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="4.0"}
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="4.0"}
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger databaseRecord
+INFO: send message to rabbit: {queueId="something", end="false", huid="Единица1", cwar="Склад1", locf="Место2", loct="Место1", mdat="1683872161", quan="15.0"}
+мая 30, 2023 4:05:43 PM com.balt.get_hadning_utils_xml.xmlLogger.XmlLogger finishReadXml
+INFO: finished reading xml with name: example.xml scanner serialNumber: 19200B69F5

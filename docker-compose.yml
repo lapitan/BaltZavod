@@ -1,0 +1,21 @@
+version: "3.9"
+services:
+  postgres:
+    image: postgres:latest
+    container_name: BzDb
+    environment:
+      POSTGRES_DB: "handling_units_database"
+      POSTGRES_USER: "d_tarasov"
+      POSTGRES_PASSWORD: "qwerty"
+    ports:
+      - "6544:5432"
+  rabbitmq:
+    container_name: BzRabbitMqServer
+    image: rabbitmq:3.11-management
+    hostname: rabbitmq
+    environment:
+      - RABBITMQ_DEFAULT_USER=vkr
+      - RABBITMQ_DEFAULT_PASS=vkr
+    ports:
+      - 15673:15672
+      - 5673:5672

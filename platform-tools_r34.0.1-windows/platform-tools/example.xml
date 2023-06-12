@@ -1,0 +1,75 @@
+<handlingUnits>
+
+    <handlingUnit>
+        <huid>Единица1</huid>
+        <cwar>Склад1</cwar>
+        <locf>Место1</locf>
+        <loct>Место2</loct>
+        <mdat>1683871261</mdat>
+        <quan>2.5</quan>
+    </handlingUnit>
+
+    <handlingUnit>
+        <huid>Единица1</huid>
+        <cwar>Склад1</cwar>
+        <locf>Место1</locf>
+        <loct>Место2</loct>
+        <mdat>1683871721</mdat>
+        <quan>3.0</quan>
+    </handlingUnit>
+    
+    <handlingUnit>
+        <huid>Единица1</huid>
+        <cwar>Склад1</cwar>
+        <locf>Место1</locf>
+        <loct>Место3</loct>
+        <mdat>1683871721</mdat>
+        <quan>3.0</quan>
+    </handlingUnit>
+
+    <handlingUnit>
+        <huid>Единица1</huid>
+        <cwar>Склад2</cwar>
+        <locf>Место1</locf>
+        <loct>Место2</loct>
+        <mdat>1683871721</mdat>
+        <quan>3.0</quan>
+    </handlingUnit>
+
+    <handlingUnit>
+        <huid>Единица2</huid>
+        <cwar>Склад1</cwar>
+        <locf>Место1</locf>
+        <loct>Место2</loct>
+        <mdat>1683871721</mdat>
+        <quan>3.0</quan>
+    </handlingUnit>
+
+    <handlingUnit>
+        <huid>Единица1</huid>
+        <cwar>Склад1</cwar>
+        <locf>Место2</locf>
+        <loct>Место1</loct>
+        <mdat>1683872161</mdat>
+        <quan>4.0</quan>
+    </handlingUnit>
+
+    <handlingUnit>
+        <huid>Единица1</huid>
+        <cwar>Склад1</cwar>
+        <locf>Место2</locf>
+        <loct>Место1</loct>
+        <mdat>1683872161</mdat>
+        <quan>4.0</quan>
+    </handlingUnit>
+
+    <handlingUnit>
+        <huid>Единица1</huid>
+        <cwar>Склад1</cwar>
+        <locf>Место2</locf>
+        <loct>Место1</loct>
+        <mdat>1683872161</mdat>
+        <quan>15.0</quan>
+    </handlingUnit>
+
+</handlingUnits>
